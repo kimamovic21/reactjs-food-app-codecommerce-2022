@@ -12,8 +12,8 @@ const HeadlineCards = (props) => {
               imgAlt="/" 
         />
         
-        <Card name="Sun's Out, BOGO's Out" 
-              description="New Restaurants"
+        <Card name="New Restaurants" 
+              description="Added Daily"
               buttonText="Order Now" 
               imgLink="https://images.unsplash.com/photo-1544025162-d76694265947?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGJicXxlbnwwfDB8MHx8&auto=format&fit=crop&w=800&q=60" 
               imgAlt="/" 

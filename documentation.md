@@ -10,5 +10,10 @@
 10. otvaramo i uredujemo Hero.jsx komponentu
 11. u components folderu kreiramo HeadlineCards.jsx komponentu
 12. otvaramo i uredujemo HeadlineCards.jsx komponentu
-13. u components folderu kreiramo i otvaramo Card.jsx komponentu
-14. 
+13. u components folderu kreiramo Card.jsx komponentu
+14. otvaramo i uredujemo Card.jsx komponentu
+15. u components folderu kreiramo Food.jsx komponentu
+16. u src folderu kreiramo data folder
+17. unutar data foldera kreiramo data.js fajl
+18. u components folderu kreiramo Category.jsx komponentu
+19. otvaramo i uredujemo Category.jsx komponentu

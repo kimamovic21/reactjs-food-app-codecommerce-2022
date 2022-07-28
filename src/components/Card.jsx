@@ -13,7 +13,8 @@ const Card = ({name, description, buttonText, imgLink, imgAlt}) => {
                 <p className='px-3'>
                     {description}
                 </p>
-                <button className='border-[#efefef] bg-[#efefef] text-[#0f0f0f] mx-2 absolute bottom-2'>
+                <button className='border-[#ffa600] bg-[#ffa600] text-[#0f0f0f] mx-2 absolute bottom-2 
+                        hover:bg-[#da920f] hover:duration-200 hover:scale-105 ease-in-out'>
                     {buttonText}
                 </button>
             </div>

@@ -7,3 +7,9 @@
         @apply border border-[#000] rounded-xl px-5 py-1
     }
 }
+
+@layer base {
+    html {
+      font-family: 'Poppins', sans-serif;
+    }
+}

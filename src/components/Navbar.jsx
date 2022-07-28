@@ -18,8 +18,8 @@ const Navbar = () => {
             <div onClick={() => setNav(!nav)} className='cursor-pointer'>
                 <AiOutlineMenu size={30} />
             </div>
-            <h1 className='text-2xl sm:text-3xl md:text-4xl lg:text-5xl px-2'>
-                Best <span className='font-bold'>Meals</span>
+            <h1 className='text-2xl sm:text-3xl md:text-4xl lg:text-5xl px-2 ml-2 mr-2 rounded-xl '>
+                Best <span className='font-bold text-[#ff9100]'>Meals</span>
             </h1>
             <div className='hidden lg:flex items-center bg-gray-200 rounded-full p-1 text-[14px]'>
                 <p className='bg-[#0e0e0e] text-[#efefef] rounded-full p-2'>Delivery</p>
@@ -28,7 +28,7 @@ const Navbar = () => {
         </div>
 
         {/* Search input - center */}
-        <div className='bg-gray-200 rounded-full flex items-center px-2 w-[200px] sm:w-[400px] md:[500px] lg:[600px]'>
+        <div className='bg-gray-200 rounded-full flex items-center sm:w-[400px] md:[500px] lg:[550px] px-2 w-[180px] mr-6'>
             <AiOutlineSearch size={30}/>
             <input className='bg-transparent p-2 focus:outline-none'
                    type="text" 
@@ -39,7 +39,10 @@ const Navbar = () => {
 
         {/* Cart button - right side */}
        <button className='bg-[#0e0e0e] text-[#efefef] hidden md:flex items-center py-2 rounded-full'>
-            <BsFillCartFill size={30} className='mr-2'/> Cart
+            <BsFillCartFill size={30} 
+                            className='mr-2 text-[#ff9100]'
+            /> 
+            Cart
        </button>
 
 
