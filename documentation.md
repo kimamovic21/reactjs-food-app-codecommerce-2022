@@ -17,3 +17,10 @@
 17. unutar data foldera kreiramo data.js fajl
 18. u components folderu kreiramo Category.jsx komponentu
 19. otvaramo i uredujemo Category.jsx komponentu
+
+
+Github pages
+1. dodajemo homepage u package.json fajlu
+2. u terminal kucamo npm i gh-pages --save-dev
+3. u package.json fajlu dodajemo predeploy i deploy
+4. u terminal kucamo npm run deploy
