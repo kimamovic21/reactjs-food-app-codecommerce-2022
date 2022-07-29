@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactjs-food-app-codecommerce-2022/static/css/main.1e6aaeca.css",
+    "main.js": "/reactjs-food-app-codecommerce-2022/static/js/main.b2e76c4d.js",
+    "index.html": "/reactjs-food-app-codecommerce-2022/index.html",
+    "main.1e6aaeca.css.map": "/reactjs-food-app-codecommerce-2022/static/css/main.1e6aaeca.css.map",
+    "main.b2e76c4d.js.map": "/reactjs-food-app-codecommerce-2022/static/js/main.b2e76c4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e6aaeca.css",
+    "static/js/main.b2e76c4d.js"
+  ]
+}
